@@ -1,5 +1,5 @@
 # Javascript-Future
-There are many javascript framework / library, but i think these is the best and recommended framework / library for developer front end website.
+There are many javascript framework / library, but i think these are the best and recommended framework / library for developer front end website.
 
 
 ## 1 Angular
